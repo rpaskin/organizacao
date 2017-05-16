@@ -1,3 +1,6 @@
+*Eduardo Mathias de Souza*
+**2017-05-16 17:11**
+*
 #**CPU**
 
 Um CPU é composta basicamente, pela maioria dos autores, pelos três seguintes componentes :
