@@ -3,7 +3,11 @@
 *
 #**CPU**
 
+Um CPU é composta basicamente, pela maioria dos autores, pelos três seguintes componentes :
+=======
 ##O que é e o que faz?
+
+huehuehue
 
 A unidade central de processamento ou CPU, é a parte de um sistema computacional onde todas as operações do computador são processadas. Ele é responsavel pela interpretação e execucão da maioria dos comandos tanto do hardware de software de seu computador.
 
