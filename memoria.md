@@ -1,0 +1,3 @@
+#Memória Principal
+
+trollado!
