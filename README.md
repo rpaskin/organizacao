@@ -20,7 +20,8 @@
 ### Como fazer
 
 1. Ser adicionado como colaborador
-2. Clonar o repositório
-3. Dividir o trabalho fazendo um commit inicial de cada arquivo
-4. Lembre de dar pull e push! :+1:
-5. Usar [Markdown](https://guides.github.com/features/mastering-markdown/)
+1. Clonar o repositório
+1. Dividir o trabalho fazendo um commit inicial de cada arquivo
+1. Lembre de dar pull e push! :+1:
+1. Usar [Markdown](https://guides.github.com/features/mastering-markdown/)
+1. Colocar os links acima no arquivo README.md
