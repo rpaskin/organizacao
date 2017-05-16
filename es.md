@@ -1,5 +1,6 @@
 # Unidades de entrada e saida
 
+
 #### Chamamos de dispositivos de entrada e saída aos dispositivos encarregados de incorporar e extrair informação de um computador. Estes dispositivos evoluíram com o tempo, existindo na atualidade muitas variantes que no início da informática pareciam impossíveis.
 
 #### Os dispositivos de entrada e saída (E/S) ou input/output (I /O) são também denominados periféricos. Eles permitem a interação do processador com o homem, possibilitando a entrada e/ou a saída de dados.
@@ -30,5 +31,3 @@
 
 THIAGO JUNIOR
 17:15 16/05/17 
-
-
