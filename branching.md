@@ -2,6 +2,8 @@
 
 ## Trabalho 2 - Branching
 
+[Verifique](https://help.github.com/articles/setting-your-username-in-git/) que suas credencias estão corretas!
+
 1. Criar um branch deste repo com seu nome
 1. Criar um novo arquivo e adicionar ao branch
    1. Dê commit e push
