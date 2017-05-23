@@ -1,4 +1,4 @@
-*Eduardo Mathias de Souza*
+* O lindo Eduardo Mathias de Souza*
 **2017-05-16 17:11**
 *
 #**CPU**
@@ -7,7 +7,7 @@
 
 A unidade central de processamento ou CPU, é a parte de um sistema computacional onde todas as operações do computador são processadas. Ele é responsavel pela interpretação e execucão da maioria dos comandos tanto do hardware de software de seu computador.
 
-#Uma CPU é composta basicamente, pela maioria dos autores, pelos três seguintes componentes :
+#Um CPU é composta basicamente, pela maioria dos autores, pelos três seguintes componentes :
 
     *Unidade lógica e aritmética (ULA ou ALU): executa operações lógicas e aritméticas;
     *Unidade de controle: decodifica instruções, busca operandos, controla o ponto de execução e desvios;
