@@ -1,5 +1,5 @@
 # Barramento
-#### Lucca Sukman de Mello
+#### Lucca Sukman de Mello, mito
 
 ![Barramento](http://producao.virtual.ufpb.br/books/camyle/introducao-a-computacao-livro/livro/livro.chunked/images/organizacao-computador/barramentos.png)
 
