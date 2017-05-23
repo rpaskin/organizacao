@@ -18,7 +18,7 @@
    1. Dê dois commits mas *não* push
 1. Descarte o último commit
 1. Faça mais uma alteração e commit
-1. Desfaça a alteraço do penúltimo commit mas deixe a do último
+1. Desfaça a alteração do penúltimo commit mas deixe a do último
    1. Dê o commit e push
 1. Volte ao branch master
    1. Incorpore as suas alterações ao master
