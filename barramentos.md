@@ -23,3 +23,4 @@ O Barramento também pode fazer a ligação entre diferentes computadores, possi
 
 #### Curiosidade: o que é USB?
 O termo “USB” é popularmente conhecido, mas seu significado, nem tanto. Universal Serial Bus é um padrão que define como devem ser os fios do Barramento, desenvolvido nos anos 90 com o objetivo de estandardizar a comunicação entre o computador e os aparelhos externos a este (mouse, monitor, impressora, etc).
+ krek esteve aqui
