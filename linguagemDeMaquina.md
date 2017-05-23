@@ -12,3 +12,5 @@ Estes números não podem ser vistos num editor de texto, ou, caso se tente ver 
 
 
 Para se programar em código de máquina, deve-se obter os códigos de instruções do processador utilizado, contendo opcodes, operandos e formatos de cada instrução. Por esse motivo, foi criada uma linguagem de programação chamada linguagem de montagem (Assembly Language), composta de códigos fáceis de lembrar que, do ponto de vista técnico, é tão próxima do processador quanto o código de máquina, mas é humanamente mais fácil de se compreender uma vez que seus códigos são geralmente siglas do inglês. Por exemplo ´mov´ de mover, ´rep´ de repetição e assim por diante.
+
+#23/05/2017 16:59 no meu branch
