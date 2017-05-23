@@ -34,7 +34,7 @@
 
 ### Desafio Open Source
 
-1. Escolher um projeto no git
+1. Escolher um projeto no Github [Exemplos](https://github.com/MunGell/awesome-for-beginners)
 2. Criar um fork
 3. Contribuir para o projeto
 4. Fazer um pull request
