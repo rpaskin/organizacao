@@ -1,5 +1,5 @@
 # Barramento
-#### Lucca Sukman de Mello, mito
+#### Lucca Sukman de Mello, mito do universo
 
 ![Barramento](http://producao.virtual.ufpb.br/books/camyle/introducao-a-computacao-livro/livro/livro.chunked/images/organizacao-computador/barramentos.png)
 
