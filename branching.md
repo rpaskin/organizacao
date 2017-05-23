@@ -24,5 +24,5 @@
    1. Incorpore as suas alterações ao master
    1. Dê commit e push
 
-[Referência via Atlassian]: https://www.atlassian.com/git/tutorials/using-branches
-[Referência via Atlassian para Revert]: https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
+[Referência via Atlassian](https://www.atlassian.com/git/tutorials/using-branches)
+[Referência via Atlassian para Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)
