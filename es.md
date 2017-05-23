@@ -1,5 +1,6 @@
 # Unidades de entrada e saida
-
+Ninguem gosta de vc
+Long live fã clube da Barbara
 
 #### Chamamos de dispositivos de entrada e saída aos dispositivos encarregados de incorporar e extrair informação de um computador. Estes dispositivos evoluíram com o tempo, existindo na atualidade muitas variantes que no início da informática pareciam impossíveis.
 
