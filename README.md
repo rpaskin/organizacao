@@ -25,3 +25,16 @@
 1. Lembre de dar pull e push! :+1:
 1. Usar [Markdown](https://guides.github.com/features/mastering-markdown/)
 1. Colocar os links acima no arquivo README.md
+
+## Trabalho 2
+
+[Branching](./branching.md)
+
+## Trabalho 3
+
+### Open Source
+
+1. Escolher um projeto no git
+2. Criar um fork
+3. Contribuir para o projeto
+4. Fazer um pull request
