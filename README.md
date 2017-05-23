@@ -32,7 +32,7 @@
 
 ## Trabalho 3
 
-### Open Source
+### Desafio Open Source
 
 1. Escolher um projeto no git
 2. Criar um fork
