@@ -7,7 +7,7 @@
 ![Diagrama](http://i.imgur.com/tHr8Abd.png)
 
 1. Memória Principal
-   1. memoria.md
+   1. [memoria.md](https://github.com/rpaskin/organizacao/blob/master/memoria.md)
 1. UCP - Unidade Central de Processamento
    1. [ucp.md](https://github.com/rpaskin/organizacao/blob/master/ucp.md)
 1. Unidades de Entrada e Saída
