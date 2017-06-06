@@ -9,7 +9,7 @@
 1. Memória Principal
    1. memoria.md
 1. UCP - Unidade Central de Processamento
-   1. ucp.md
+   1. [ucp.md](https://github.com/rpaskin/organizacao/blob/master/ucp.md)
 1. Unidades de Entrada e Saída
    1. es.md
 1. Modelo de Barramentos
