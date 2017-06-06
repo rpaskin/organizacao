@@ -11,7 +11,7 @@
 1. UCP - Unidade Central de Processamento
    1. [ucp.md](https://github.com/rpaskin/organizacao/blob/master/ucp.md)
 1. Unidades de Entrada e Saída
-   1. es.md
+   1. [es.md](https://github.com/rpaskin/organizacao/blob/master/es.md)
 1. Modelo de Barramentos
    1. [barramentos.md](https://github.com/rpaskin/organizacao/blob/master/barramentos.md)
 1. Linguagem de Máquina
@@ -32,7 +32,7 @@
 
 ## Trabalho 3
 
-[Branching](./es.md)
+
 
 ### Desafio Open Source
 
