@@ -13,7 +13,7 @@
 1. Unidades de Entrada e Saída
    1. es.md
 1. Modelo de Barramentos
-   1. barramentos.md
+   1. [barramentos.md](https://github.com/rpaskin/organizacao/blob/master/barramentos.md)
 1. Linguagem de Máquina
    1. [linguagemdemaquina.md](https://github.com/rpaskin/organizacao/blob/master/linguagemDeMaquina.md)
 
