@@ -1,6 +1,6 @@
 # Barramento
 #### Lucca Sukman de Mello
-
+*ignore isso daqui pfvr*
 ![Barramento](http://producao.virtual.ufpb.br/books/camyle/introducao-a-computacao-livro/livro/livro.chunked/images/organizacao-computador/barramentos.png)
 
 ## O que é
