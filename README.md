@@ -15,7 +15,7 @@
 1. Modelo de Barramentos
    1. barramentos.md
 1. Linguagem de Máquina
-   1. linguagemdemaquina.md
+   1. [linguagemdemaquina.md](https://github.com/rpaskin/organizacao/blob/master/linguagemDeMaquina.md)
 
 ### Como fazer
 
